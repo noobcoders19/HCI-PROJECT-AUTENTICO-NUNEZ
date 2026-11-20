@@ -1,6 +1,6 @@
-# Student Online Application System
+# HCI-PROJECT-AUTENTICO-NUNEZ: Student Online Application System
 
-A Next.js and TypeScript starter for student applications and administrator review.
+A Next.js and TypeScript application for student applications and administrator review.
 
 ## Run locally
 
@@ -9,7 +9,7 @@ A Next.js and TypeScript starter for student applications and administrator revi
 3. Run `npm run dev`.
 4. Open `http://localhost:3000`.
 
-The login screen has separate student and administrator entry buttons. This starter has no accounts, passwords, or access control.
+The login screen has separate student and administrator entry buttons. This project does not use accounts or passwords.
 
 ## Data and deployment
 
